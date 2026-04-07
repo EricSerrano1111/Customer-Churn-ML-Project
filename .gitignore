@@ -1,0 +1,19 @@
+# Standard Python System Files
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+
+# Jupyter Notebook History
+.ipynb_checkpoints/
+
+# MLflow Local Artifacts
+mlruns/
+mlflow.db
+artifacts/
+
+# Windows System Files
+Thumbs.db
+desktop.ini
